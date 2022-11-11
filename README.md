@@ -8,7 +8,3 @@ Pretendo resolver um módulo por semana. No total são 9, porém irei fazer apen
 <br>
 
 <h2>Status: Em andamento</h2>
-
-EstruturaSequencial: Falta fazer o exercício 18.
-<br>
-EstruturaDeDecisão: Exercícios 11 em adiante estão pendente.
